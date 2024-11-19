@@ -1,0 +1,88 @@
+2024-11-19T08:55:57.825510+05:00 - Uninited
+2024-11-19T08:55:57.826836+05:00 - Job creator created
+2024-11-19T08:55:57.826992+05:00 - Job creator created
+2024-11-19T08:55:57.827126+05:00 - Job creator created
+2024-11-19T08:55:57.827562+05:00 - starting 12 workers
+2024-11-19T08:55:57.827605+05:00 - Actix runtime found; starting in Actix runtime
+2024-11-19T08:55:57.827637+05:00 - starting service: "actix-web-service-0.0.0.0:19998", workers: 12, listening on: 0.0.0.0:19998
+2024-11-19T08:56:01.147091+05:00 - SIGINT received; starting forced shutdown
+2024-11-19T08:56:01.147417+05:00 - paused accepting connections on 0.0.0.0:19998
+2024-11-19T08:56:01.147547+05:00 - shutting down idle worker
+2024-11-19T08:56:01.147674+05:00 - shutting down idle worker
+2024-11-19T08:56:01.147945+05:00 - shutting down idle worker
+2024-11-19T08:56:01.148080+05:00 - shutting down idle worker
+2024-11-19T08:56:01.148249+05:00 - shutting down idle worker
+2024-11-19T08:56:01.148352+05:00 - shutting down idle worker
+2024-11-19T08:56:01.148469+05:00 - shutting down idle worker
+2024-11-19T08:56:01.148588+05:00 - shutting down idle worker
+2024-11-19T08:56:01.148695+05:00 - shutting down idle worker
+2024-11-19T08:56:01.148791+05:00 - shutting down idle worker
+2024-11-19T08:56:01.148890+05:00 - shutting down idle worker
+2024-11-19T08:56:01.148992+05:00 - shutting down idle worker
+2024-11-19T08:56:01.149018+05:00 - accept thread stopped
+2024-11-19T08:57:28.049232+05:00 - Uninited
+2024-11-19T08:57:28.050462+05:00 - Job creator created
+2024-11-19T08:57:28.050613+05:00 - Job creator created
+2024-11-19T08:57:28.050745+05:00 - Job creator created
+2024-11-19T08:57:28.051377+05:00 - starting 12 workers
+2024-11-19T08:57:28.051453+05:00 - Actix runtime found; starting in Actix runtime
+2024-11-19T08:57:28.051503+05:00 - starting service: "actix-web-service-0.0.0.0:19998", workers: 12, listening on: 0.0.0.0:19998
+2024-11-19T08:57:30.579578+05:00 - SIGINT received; starting forced shutdown
+2024-11-19T08:57:30.580032+05:00 - paused accepting connections on 0.0.0.0:19998
+2024-11-19T08:57:30.580210+05:00 - shutting down idle worker
+2024-11-19T08:57:30.580333+05:00 - shutting down idle worker
+2024-11-19T08:57:30.580511+05:00 - shutting down idle worker
+2024-11-19T08:57:30.580711+05:00 - shutting down idle worker
+2024-11-19T08:57:30.580819+05:00 - shutting down idle worker
+2024-11-19T08:57:30.581058+05:00 - shutting down idle worker
+2024-11-19T08:57:30.581158+05:00 - shutting down idle worker
+2024-11-19T08:57:30.581263+05:00 - shutting down idle worker
+2024-11-19T08:57:30.581366+05:00 - shutting down idle worker
+2024-11-19T08:57:30.581461+05:00 - shutting down idle worker
+2024-11-19T08:57:30.581588+05:00 - shutting down idle worker
+2024-11-19T08:57:30.581691+05:00 - shutting down idle worker
+2024-11-19T08:57:30.581760+05:00 - accept thread stopped
+2024-11-19T08:57:32.533768+05:00 - Uninited
+2024-11-19T08:57:32.534971+05:00 - Job creator created
+2024-11-19T08:57:32.535133+05:00 - Job creator created
+2024-11-19T08:57:32.535278+05:00 - Job creator created
+2024-11-19T08:57:32.535891+05:00 - starting 12 workers
+2024-11-19T08:57:32.535979+05:00 - Actix runtime found; starting in Actix runtime
+2024-11-19T08:57:32.536036+05:00 - starting service: "actix-web-service-0.0.0.0:19998", workers: 12, listening on: 0.0.0.0:19998
+2024-11-19T08:57:34.836608+05:00 - SIGINT received; starting forced shutdown
+2024-11-19T08:57:34.837231+05:00 - paused accepting connections on 0.0.0.0:19998
+2024-11-19T08:57:34.837422+05:00 - shutting down idle worker
+2024-11-19T08:57:34.837580+05:00 - shutting down idle worker
+2024-11-19T08:57:34.838095+05:00 - shutting down idle worker
+2024-11-19T08:57:34.838460+05:00 - shutting down idle worker
+2024-11-19T08:57:34.838593+05:00 - shutting down idle worker
+2024-11-19T08:57:34.838820+05:00 - shutting down idle worker
+2024-11-19T08:57:34.838928+05:00 - shutting down idle worker
+2024-11-19T08:57:34.839102+05:00 - shutting down idle worker
+2024-11-19T08:57:34.839209+05:00 - shutting down idle worker
+2024-11-19T08:57:34.839350+05:00 - shutting down idle worker
+2024-11-19T08:57:34.839459+05:00 - shutting down idle worker
+2024-11-19T08:57:34.839627+05:00 - shutting down idle worker
+2024-11-19T08:57:34.839664+05:00 - accept thread stopped
+2024-11-19T09:07:07.739967+05:00 - Uninited
+2024-11-19T09:07:07.740608+05:00 - Job creator created
+2024-11-19T09:07:07.740681+05:00 - Job creator created
+2024-11-19T09:07:07.740741+05:00 - Job creator created
+2024-11-19T09:07:07.741066+05:00 - starting 12 workers
+2024-11-19T09:07:07.741114+05:00 - Actix runtime found; starting in Actix runtime
+2024-11-19T09:07:07.741142+05:00 - starting service: "actix-web-service-0.0.0.0:19998", workers: 12, listening on: 0.0.0.0:19998
+2024-11-19T09:07:09.881784+05:00 - SIGINT received; starting forced shutdown
+2024-11-19T09:07:09.882394+05:00 - shutting down idle worker
+2024-11-19T09:07:09.882589+05:00 - paused accepting connections on 0.0.0.0:19998
+2024-11-19T09:07:09.882726+05:00 - shutting down idle worker
+2024-11-19T09:07:09.882841+05:00 - shutting down idle worker
+2024-11-19T09:07:09.883084+05:00 - shutting down idle worker
+2024-11-19T09:07:09.883193+05:00 - shutting down idle worker
+2024-11-19T09:07:09.883361+05:00 - shutting down idle worker
+2024-11-19T09:07:09.883551+05:00 - shutting down idle worker
+2024-11-19T09:07:09.883668+05:00 - shutting down idle worker
+2024-11-19T09:07:09.883810+05:00 - shutting down idle worker
+2024-11-19T09:07:09.883921+05:00 - shutting down idle worker
+2024-11-19T09:07:09.884112+05:00 - shutting down idle worker
+2024-11-19T09:07:09.884209+05:00 - shutting down idle worker
+2024-11-19T09:07:09.884236+05:00 - accept thread stopped

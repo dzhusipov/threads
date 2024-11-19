@@ -11,7 +11,8 @@ RUN apk add --no-cache \
     libstdc++ \
     gcc \
     libc-dev \
-    pkgconf 
+    pkgconf \
+    libressl-dev
 
 # Build the application
 RUN export PKG_CONFIG_PATH="/usr/lib/pkgconfig" && \
@@ -27,10 +28,9 @@ COPY --from=build /app/target/release/threads /app/threads
 # Copy any necessary configuration files
 COPY --from=build /app/config /app/config
 COPY --from=build /app/.env /app/.env
-COPY --from=build /app/tmp /app/tmp
 
 # Expose the necessary ports
-EXPOSE 9292
+EXPOSE 19998
 
 # Command to run the application
 CMD ["/app/threads"]
